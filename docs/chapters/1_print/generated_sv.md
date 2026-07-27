@@ -12,10 +12,13 @@ för att exporter din model till en STL fil.
 ![klicka 'File | Export | Stl (.stl)'](1_blender_export_to_stl.png)
 
 
+
+
 I OpenSCAD, klicka 'File | Export | Export as STL'
 för att exporter din model till en STL fil.
 
 ![klicka 'File | Export | Export as STL'](1_openscad_export_to_stl.png)
+
 
 
 ## 1.1. Att ladda en STL fil in PrusaSlicer
@@ -26,9 +29,13 @@ Starta programmet PrusaSlicer.
 ![PrusaSlicer](1_prusaslicer.png)
 
 
+
+
 Klick på 'File | Import | Import STL'.
 
 ![Klick på 'File | Import | Import STL'](1_click_file_import_import_stl.png)
+
+
 
 
 Välja en STL fil och klicka på 'Open'.
@@ -36,9 +43,12 @@ Välja en STL fil och klicka på 'Open'.
 ![Välja en STL fil och klicka på 'Open'](1_select_stl_file.png)
 
 
+
+
 Nu har du laddet en kub i PrusaSlicer. Den ser ut likadant som här:
 
 ![Kuben är laddat](1_cube_is_loaded.png)
+
 
 
 ## 1.2. Att välja en 3D skrivare
@@ -51,9 +61,12 @@ den här skrivare här nere heter 'Merkurius'.
 ![Den här skrivare heter 'Merkurius'](1_merkurius.jpg)
 
 
+
+
 I PrusaSlicer, väljer samma 3D skrivare.
 
 ![välja samma 3D skrivare](1_select_printer.png)
+
 
 
 ## 1.3. Att slica
@@ -61,13 +74,15 @@ I PrusaSlicer, väljer samma 3D skrivare.
 
 Click 'Slice now'.
 
-
 ![Klicka på 'Slice now'](1_click_slice_now.png)
+
+
 
 
 Nu är slicingen klart.
 
 ![Slicingen är klart](1_slicing_done.png)
+
 
 
 ## 1.4. Att skriva ut
@@ -88,10 +103,14 @@ i högerneret hörnet.
 ![Klick på 'Send to print'](1_send_to_printer.png)
 
 
+
+
 Du blir frågat hur skrivaren måste kallas din 3D tryck.
 Klicka på 'Upload and print' ('ladda up och skriv ut').
 
 ![Klicka på 'Upload and print'](send_gcode_to_printer_host.png)
+
+
 
 
 Nu bör 3D skrivaren sätter sig igång.
@@ -108,11 +127,14 @@ Hur länge ska din 3D tryck tar?
 ![Skärm av skrivaren](1_printer_screen.jpg)
 
 
+
+
 På värmebädden (plattan där skriving tar plats på),
 på framsida finns en symbol av en fingeravtryck.
 Vad tror du att den betyder?
 
 ![Värmebädden har symboler av fingeravtryckar](1_heating_bed_front_left.jpg)
+
 
 
 ## 1.6. Efter utskriving
@@ -133,25 +155,24 @@ Tellus   |`10.0.1.103`
 Mars     |`10.0.1.104`
 Uranus   |`10.0.1.105`
 
-```text
-PICTURE OF TYPING 10.0329842 IN BROWSER
-```
+![Type the URL of your printer in the browser](1_type_url_in_browser.png)
+
+
 
 
 Du kommer nu att se webbplatsen för din favorit 3D-skrivare.
 
-```text
-SCREENSHOT OF WEBSITE
-```
+![Merkurius homepage](1_merkurius_homepage.png)
+
+
 
 
 På webbplatsen av din favorit 3D-skrivare,
 kan du se hur lång tid utskriften tog.
 
+![Mainsail shows the print time](mainsail_1124_show_print_time_annotated.png)
 
-```text
-SCREENSHOT OF WEBSITE WITH ANNOTATED TIME
-```
+
 
 
 Vi är intresserade av att ta reda på när värmebädden har svalnat
@@ -159,9 +180,9 @@ till mindre än 30 grader Celsius.
 
 Det visas här:
 
-```text
-SCREENSHOT OF WEBSITE WITH ANNOTATED HEAT BED TEMPERATURE
-```
+![Mainsail shows the temperatures](mainsail_1145_cool_down_annotated.png)
+
+
 
 
 När värmebädden är under 30 grader Celsius,
@@ -172,11 +193,11 @@ Använd ett metallverktyg för att peta i botten av din 3D-utskrift
 När 3D-utskriften är lös, använd **ett verktyg** för att trycka bort den från 3D-skrivaren
 (dvs. använd **inte** dina händer).
 
-```text
-PICTURE OF scraping the cube.
-```
+![Scraping the cube from the heating bed](1_scraping_cube.jpg)
+
+
 
 
 Om allt lyckades: grattis, du har skrivit ut din första sak!
 
-![Den utskrivna kuben](1_printed_cube.jpg)
+![The printed cube](1_printed_cube.jpg)
