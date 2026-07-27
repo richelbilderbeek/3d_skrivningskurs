@@ -55,7 +55,6 @@
     Nu startar PrusaSlicer. Om den visar den så-kallade 'Configuration Wizard'
     ('Konfigurations hjälpare'), klicka på 'Finish' ('Klar').
 
-
 === "🇬🇧"
 
     Now PrusaSlicer will start. If it displays the so-called
@@ -124,7 +123,6 @@
 === "🇬🇧"
 
     In PrusaSlicer, click 'File | Import | Import Config Bundle'.
-
 
 ![Klicka 'File | Import | Import Config Bundle'](select_import_config_bundle.png)
 

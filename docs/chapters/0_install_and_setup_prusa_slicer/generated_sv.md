@@ -33,7 +33,6 @@ finns det ofta en ikon på Skrivbordet. Klicka på PrusaSlicer ikonen.
 Nu startar PrusaSlicer. Om den visar den så-kallade 'Configuration Wizard'
 ('Konfigurations hjälpare'), klicka på 'Finish' ('Klar').
 
-
 ![Klicka på 'Finish'](finish_configuration_wizard.png)
 
 

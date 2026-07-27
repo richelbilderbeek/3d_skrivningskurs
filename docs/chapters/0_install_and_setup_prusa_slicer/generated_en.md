@@ -68,7 +68,6 @@ Download the latest configuration file.
 
 In PrusaSlicer, click 'File | Import | Import Config Bundle'.
 
-
 ![Klicka 'File | Import | Import Config Bundle'](select_import_config_bundle.png)
 
 
