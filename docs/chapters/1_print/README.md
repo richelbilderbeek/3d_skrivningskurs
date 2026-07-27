@@ -197,9 +197,9 @@
     måste du kollar på skrivaren hela tiden.
     Målet är att du ser hur en vanligt/lyckande skrivning ser ut.
 
-    Så, vad ser du att skrivaren gör först?
+    **Q1**: Vad ser du att skrivaren gör först?
 
-    Kolla på skärmen av 3D skrivaren.
+    **Q2**: Kolla på skärmen av 3D skrivaren.
     Hur länge ska din 3D tryck tar?
 
 === "🇬🇧"
@@ -210,9 +210,9 @@
     you have to look at the printer all the time.
     The goal is that you see what a normal/successful print looks like.
 
-    So, what do you see the printer doing first?
+    **Q1**: What do you see the printer doing first?
 
-    Look at the screen of the 3D printer.
+    **Q2**: Look at the screen of the 3D printer.
     How long should your 3D print take?
 
 ![Skärm av skrivaren](1_printer_screen.jpg)
@@ -221,13 +221,13 @@
 
 === "🇸🇪"
 
-    På värmebädden (plattan där skriving tar plats på),
+    **Q3**: På värmebädden (plattan där skriving tar plats på),
     på framsida finns en symbol av en fingeravtryck.
     Vad tror du att den betyder?
 
 === "🇬🇧"
 
-    On the heating bed (the plate where the printing takes place),
+    **Q3**: On the heating bed (the plate where the printing takes place),
     on the front there is a symbol of a fingerprint.
     What do you think it means?
 
@@ -315,6 +315,9 @@ Uranus   |`10.0.1.105`
 
 === "🇸🇪"
 
+    **Q4**: hur länge tog det för din 3D-utskrift att kylas ner
+    till under 30 grader Celsius?
+
     När värmebädden är under 30 grader Celsius,
     kan du ta bort din 3D-utskrift med **verktyg** (dvs. **inte** dina händer).
     Använd ett metallverktyg för att peta i botten av din 3D-utskrift
@@ -324,6 +327,9 @@ Uranus   |`10.0.1.105`
     (dvs. använd **inte** dina händer).
 
 === "🇬🇧"
+
+    **Q4**: how long did it take for your 3D print too cool down to below
+    30 degreed Celsius?
 
     When the heat bed is less than 30 degrees Celsius,
     you can remove your 3D print with **tools** (i.e. **not** your hands).
@@ -341,8 +347,12 @@ Uranus   |`10.0.1.105`
 
     Om allt lyckades: grattis, du har skrivit ut din första sak!
 
+    **Q5**: visar ditt 3D-skrivning till en lärare.
+
 === "🇬🇧"
 
     If everything was successful: congratulations, you have printed your first thing!
+
+    **Q5**: show you work to a teacher.
 
 ![The printed cube](1_printed_cube.jpg)
