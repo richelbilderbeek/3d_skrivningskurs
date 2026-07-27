@@ -40,27 +40,26 @@
 
 === "🇸🇪"
 
-    ...
+    På din dator, startar PrusaSlicer. På datorerna i Uppsala Makerspace
+    finns det ofta en ikon på Skrivbordet. Klicka på PrusaSlicer ikonen.
 
 === "🇬🇧"
 
-    ...
-
-På din dator, startar PrusaSlicer. På datorerna i Uppsala Makerspace
-finns det ofta en ikon på Skrivbordet. Klicka på PrusaSlicer ikonen.
+    On your computer, start PrusaSlicer. On the computers in Uppsala Makerspace
+    there is often an icon on the Desktop. Click on the PrusaSlicer icon.
 
 ![Klicka på PrusaSlicer ikonen](click_prusa_slicer_icon.png)
 
 === "🇸🇪"
 
-    ...
+    Nu startar PrusaSlicer. Om den visar den så-kallade 'Configuration Wizard'
+    ('Konfigurations hjälpare'), klicka på 'Finish' ('Klar').
+
 
 === "🇬🇧"
 
-    ...
-
-Nu startar PrusaSlicer. Om den visar den så-kallade 'Configuration Wizard'
-('Konfigurations hjälpare'), klicka på 'Finish' ('Klar').
+    Now PrusaSlicer will start. If it displays the so-called
+    'Configuration Wizard', click 'Finish'.
 
 ![Klicka på 'Finish'](finish_configuration_wizard.png)
 
@@ -103,8 +102,6 @@ Nu startar PrusaSlicer. Om den visar den så-kallade 'Configuration Wizard'
     In a browser, search for 'Uppsala Makerspace wiki 3D printing'
     or go directly to
     [`https://wiki.uppsalamakerspace.se/3D-printing`](https://wiki.uppsalamakerspace.se/3D-printing).
-
-\pagebreak
 
 \pagebreak
 

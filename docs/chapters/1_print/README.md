@@ -98,7 +98,6 @@
     Each 3D printer has a name. For example,
     this printer down here is called 'Merkurius'.
 
-
 ![Den här skrivare heter 'Merkurius'](1_merkurius.jpg)
 
 \pagebreak
@@ -120,7 +119,6 @@
 === "🇸🇪"
 
     Click 'Slice now'.
-
 
 === "🇬🇧"
 
@@ -259,7 +257,6 @@
     Connect to the UMS WiFi. Then, in your webbrowser, type
     in the search bar the URL matching your printer.
 
-
 Printer  |URL
 ---------|------------
 Merkurius|`10.0.1.101`
@@ -268,8 +265,9 @@ Tellus   |`10.0.1.103`
 Mars     |`10.0.1.104`
 Uranus   |`10.0.1.105`
 
-
 ![Type the URL of your printer in the browser](1_type_url_in_browser.png)
+
+\pagebreak
 
 === "🇸🇪"
 
@@ -281,19 +279,21 @@ Uranus   |`10.0.1.105`
 
 ![Merkurius homepage](1_merkurius_homepage.png)
 
+\pagebreak
+
 === "🇸🇪"
 
     På webbplatsen av din favorit 3D-skrivare,
     kan du se hur lång tid utskriften tog.
-
 
 === "🇬🇧"
 
     At the website of your favorite 3D printer,
     you can see how long the print took.
 
-
 ![Mainsail shows the print time](mainsail_1124_show_print_time_annotated.png)
+
+\pagebreak
 
 === "🇸🇪"
 
@@ -310,6 +310,8 @@ Uranus   |`10.0.1.105`
     It is shown here:
 
 ![Mainsail shows the temperatures](mainsail_1145_cool_down_annotated.png)
+
+\pagebreak
 
 === "🇸🇪"
 
@@ -331,7 +333,9 @@ Uranus   |`10.0.1.105`
     When the 3D print is loose, use **a tool** to push it off the 3D printer
     (i.e. do **not** use your hands).
 
-![Att skrapa kuben](1_scraping_cube.jpg)
+![Scraping the cube from the heating bed](1_scraping_cube.jpg)
+
+\pagebreak
 
 === "🇸🇪"
 
@@ -341,4 +345,4 @@ Uranus   |`10.0.1.105`
 
     If everything was successful: congratulations, you have printed your first thing!
 
-![Den utskrivna kuben](1_printed_cube.jpg)
+![The printed cube](1_printed_cube.jpg)
