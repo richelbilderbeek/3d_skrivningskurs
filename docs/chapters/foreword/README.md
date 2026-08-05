@@ -36,7 +36,7 @@ fontsize: 14pt
 
     Med det här häftet kan du göra vad du vill, så länge du hänvisar till
     originalversionen på denna webbplats:
-    [`https://uppsala-makerspace.github.io/3d_skrivningskurs/`](https://uppsala-makerspace.github.io/3d_skrivningskurs/).
+    [`https://richelbilderbeek.github.io/3d_skrivningskurs/`](https://richelbilderbeek.github.io/3d_skrivningskurs/).
     Detta häfte kommer alltid att förbli gratis, fritt och öppet.
 
     Det är fortfarande en lite slarvig bok.
@@ -48,7 +48,7 @@ fontsize: 14pt
 
     You can do whatever you want with this booklet, as long as you reference
     the original version on this website:
-    [`https://uppsala-makerspace.github.io/3d_skrivningskurs/`](https://uppsala-makerspace.github.io/3d_skrivningskurs/).
+    [`https://richelbilderbeek.github.io/3d_skrivningskurs/`](https://richelbilderbeek.github.io/3d_skrivningskurs/).
     This booklet will always remain free, open and free.
 
     It is still a bit of a sloppy book.
