@@ -6,6 +6,7 @@
 [![Check links](https://github.com/richelbilderbeek/3d_skrivningskurs/actions/workflows/check_links.yaml/badge.svg?branch=main)](https://github.com/richelbilderbeek/3d_skrivningskurs/actions/workflows/check_links.yaml)
 [![Check Markdown](https://github.com/richelbilderbeek/3d_skrivningskurs/actions/workflows/check_markdown.yaml/badge.svg?branch=main)](https://github.com/richelbilderbeek/3d_skrivningskurs/actions/workflows/check_markdown.yaml)
 [![Create website](https://github.com/richelbilderbeek/3d_skrivningskurs/actions/workflows/create_website.yaml/badge.svg?branch=main)](https://github.com/richelbilderbeek/3d_skrivningskurs/actions/workflows/create_website.yaml)
+[![DOI](https://zenodo.org/badge/1282284943.svg)](https://doi.org/10.5281/zenodo.21808479)
 
 <!-- markdownlint-enable MD013 -->
 

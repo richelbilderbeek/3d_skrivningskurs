@@ -41,3 +41,5 @@ tags:
     There are more documents showing how to 3D print things at
     Uppsala Makerspace.
     They are listed on the [3D-printing Wiki page](https://wiki.uppsalamakerspace.se/3D-printing).
+
+[![DOI](https://zenodo.org/badge/1282284943.svg)](https://doi.org/10.5281/zenodo.21808479)
